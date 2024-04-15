@@ -1,4 +1,4 @@
-# SMS Spam Detection 
+# SMS Spam Detection: Python Project
 
 This project implements a machine learning model for classifying SMS messages as spam or legitimate (ham). It leverages the power of Streamlit to create a user-friendly web application for real-time spam detection and utilizes the Natural Language Toolkit (NLTK) for potential text pre-processing tasks.
 
